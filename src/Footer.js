@@ -6,7 +6,7 @@ function Footer() {
         <div>
             {/* <div class="card text-center">                 */}
                 <div class="card-footer text-center text-muted">
-                    Codedj With Love By <a href="https://github.com/aphatheology">Mustapha Abdulkareem | Aphatheology</a>
+                    Coded With Love By <a href="https://github.com/aphatheology">Mustapha Abdulkareem | Aphatheology</a>
                 </div>
             {/* </div> */}
         </div>
