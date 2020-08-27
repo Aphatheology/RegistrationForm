@@ -332,7 +332,7 @@ class Form extends Component {
                         <hr />
 
                         <div className="form-check form-check-inline">
-                            <input className="form-check-input" type="checkbox" id="agree" value="accept"
+                            <input className="form-check-input" type="checkbox" id="agree" 
                             onChange={this.changeAgree}
                             value={this.state.agree}  />
                             <label className="form-check-label" for="agree">I hereby agree that I am a citizen of Nigeria and I am liable to legal prosecution for false Information.</label>
